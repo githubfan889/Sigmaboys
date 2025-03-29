@@ -6,7 +6,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Presi
 
 MakeWindow({
     Hub = {
-        Title = "President Zuyi | NEL ISAGI",
+        Title = "President Zuyi | Cracked",
         Animation = "Made By Zuyi!"
     },
     Key = {
@@ -25,7 +25,7 @@ MakeWindow({
 })
 
 MinimizeButton({
-    Image = "rbxassetid://98953233046110",
+    Image = "rbxassetid://15975123019",
     Size = {40, 40},
     Color = Color3.fromRGB(10, 10, 10),
     Corner = true,
@@ -34,7 +34,7 @@ MinimizeButton({
 })
 
 MakeNotifi({
-    Title = "Presidentzuyi anystyle cracked no key lets goo!",
+    Title = "Anystyle cracked",
     Text = "Is This Okay? - Loki⚡️😭",
     Time = 5
 })
